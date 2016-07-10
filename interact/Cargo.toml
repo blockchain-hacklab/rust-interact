@@ -1,0 +1,7 @@
+[package]
+name = "interact"
+version = "0.1.0"
+authors = ["Reto Trinkler <reto.trinkler@gmail.com>"]
+
+[dependencies]
+curl = "0.3.0"
